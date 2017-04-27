@@ -1,1 +1,1 @@
-# CS231n-Project
+# CS231n - The Photosynthesis Project
